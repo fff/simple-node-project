@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"jasmine-node spec --autotest --color --watch ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fff/simple-node-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fff/simple-node-project/issues"
+  },
+  "homepage": "https://github.com/fff/simple-node-project#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "lodash": "^3.10.1"
+  }
+}
